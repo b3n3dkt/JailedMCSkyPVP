@@ -32,7 +32,6 @@ public class SkyPvP extends JavaPlugin {
     private static String noperm;
     public static MessageManager mM;
 
-
     @Override
     public void onEnable(){
         if(scfg.exist() == false){
