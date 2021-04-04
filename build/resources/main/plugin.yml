@@ -1,0 +1,43 @@
+name: JailedMCSKyPvP
+author: b3n3dkt
+version: 1.0.0
+main: me.b3n3dkt.SkyPvP
+api-version: 1.8
+depend: [SkyRasorCore, Votifier, ProtocolLib]
+
+commands:
+   kit:
+   clearchat:
+     aliases: [cc]
+   clearlag:
+     aliases: [cl]
+   crash:
+   enchant:
+   event:
+   feed:
+   fly:
+   gamemode:
+     aliases: [gm]
+   globalmute:
+   heal:
+   invsee:
+   rename:
+   setspawn:
+   sign:
+   spawn:
+   stats:
+   vanish:
+     aliases: [v]
+   votekick:
+   msg:
+   reply:
+      aliases: [r]
+   eco:
+   pay:
+   money:
+   rang:
+   pack:
+   enderchest:
+      aliases: [ec]
+   discord:
+   update:
