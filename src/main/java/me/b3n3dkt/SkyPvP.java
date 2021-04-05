@@ -105,6 +105,7 @@ public class SkyPvP extends JavaPlugin {
         Bukkit.getPluginManager().registerEvents(new PlayerInteract_Packs(), this);
         Bukkit.getPluginManager().registerEvents(new InventoryClick_RangShop(), this);
         Bukkit.getPluginManager().registerEvents(new PlayerInteract_EnderChest(), this);
+        Bukkit.getPluginManager().registerEvents(new LogIn(), this);
     }
 
     public void loadUtils() throws IOException{
